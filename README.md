@@ -4,12 +4,10 @@ SQL, Schema Design, and ER Diagrams.
 # Lectures 
 
 Lecture 1: Overview; Integer RepresentationPreview the document
-Reading: Representing Numbers, Deborah Nolan, BerkeleyPreview the document
 Lecture 2: Fixed-point and Floating-point RepresentationPreview the document
 Lecture 3: Date, Time and Text RepresentationPreview the document
 Lecture 4: Data Modeling in Relational Databases; Primary and Foreign KeysPreview the document
 Lecture 5: Table Relationships; ER modeling; Intro to SQLPreview the document
-Basic SQL Cheat SheetPreview the document
 Lecture 6: Extended ER Diagrams, SELECT Query StatementsPreview the document
 Lecture 7: SQLite TutorialPreview the document
 Lecture 8: INNER JOINsPreview the document
