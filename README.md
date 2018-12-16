@@ -1,5 +1,7 @@
 # Database
-SQL Queries, Schema Design, and ER Diagrams. 
+SQL Queries, Schema Design, and ER Diagrams.
+SQL Cheat Sheet.
+Integer representation paper.
 
 # Lectures 
 
