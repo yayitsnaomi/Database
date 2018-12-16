@@ -1,5 +1,5 @@
 # Database
-SQL, Schema Design, and ER Diagrams. 
+SQL Queries, Schema Design, and ER Diagrams. 
 
 # Lectures 
 
