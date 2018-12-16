@@ -21,3 +21,14 @@ Lecture 1: Overview; Integer RepresentationPreview the document
 <br>Lecture 16: Triggers; Introduction to TransactionsPreview the document
 <br>Lecture 17: Partitioning, NoSQL databases & Big DataPreview the document
 <br>Lecture 18: Semi-structured Data (JSON, XML), Data CleaningPreview the document
+
+# Lab Discussion
+
+<br>Week 2 Discussion: Bits and RepresentationsPreview the document
+<br>Week 3 Discussion: Data ModelingPreview the document
+<br>Week 4 Discussion: Basic SQLPreview the document
+<br>Week 5 Discussion: Midterm ReviewPreview the document
+<br>Week 6 Discussion: Midterm PostmortemPreview the document
+<br>Week 7 Discussion: Alternative JoinsPreview the document
+<br>Week 8 Discussion: Set Operations, Recursion, and RegexPreview the document
+<br>Week 10 Discussion: Complex Constraints and Big DataPreview the document
